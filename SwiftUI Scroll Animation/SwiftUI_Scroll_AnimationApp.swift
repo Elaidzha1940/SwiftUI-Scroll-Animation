@@ -1,9 +1,13 @@
+//  /*
 //
-//  SwiftUI_Scroll_AnimationApp.swift
-//  SwiftUI Scroll Animation
+//  Project: SwiftUI Scroll Animation
+//  File: SwiftUI_Scroll_AnimationApp.swift
+//  Created by: Elaidzha Shchukin
+//  Date: 16.06.2023
 //
-//  Created by Elaidzha Shchukin on 16.06.2023.
+//  Status
 //
+//  */
 
 import SwiftUI
 
